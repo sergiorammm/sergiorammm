@@ -23,5 +23,5 @@ Algunos de mis proyectos y prácticas estarán disponibles aquí en GitHub.
 
 ## 📫 Contacto
 
-* 💻 GitHub: [@sergioramm](https://github.com/sergioramm)
+* 💻 GitHub: [@sergiorammm](https://github.com/sergiorammm)
 * 💬 Discord: `sergioram`
